@@ -1,6 +1,6 @@
 # Text Analysis Project
 
-This project focuses on developing and deploying AI models for text analysis tasks (e.g., text classification, sentiment analysis). It includes data cleaning, model training, a live dashboard, and cloud deployment.
+This project focuses on developing and deploying AI models for text analysis tasks (example - text classification, sentiment analysis). It includes data cleaning, model training, a live dashboard, and cloud deployment.
 
 ---
 
